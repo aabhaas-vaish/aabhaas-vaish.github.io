@@ -34,6 +34,6 @@ Core Member | [Committe of Students for Academic Activities](https://www.linkedi
 Member | Student Faculty Council | August 2017 - December 2017
 
 ---
-You can find the full source code of this site on [GitHub](https://github.com/Megh-Thakkar/Megh-Thakkar.github.io)
+You can find the full source code of this site on [GitHub](https://github.com/aabhaas-vaish/aabhaas-vaish.github.io)
 
 ---
