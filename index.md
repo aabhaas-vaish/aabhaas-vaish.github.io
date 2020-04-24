@@ -4,10 +4,10 @@ layout: default
 
 ## About Me
 
+Hello! I am Aabhaas. I am a final year undergraduate student at Birla Institute of Technology and Science, Pilani (BITS Pilani), majoring in Electrical and Electronics Engineering. I am broadly interested in Deep Learning, with a focus on this field's applications in Computer Vision, Reinforcement Learning, and Robotics.
+
 {% comment %} 
 <img class="profile-picture" src="dp.jpg">
-
-Hi! I am Megh. I am a final year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Computer Science. I am broadly interested in Natural Language Processing, particularly in dialogue systems, question answering systems and conversational AI.
 
 I most recently worked as a research intern under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/) at [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) as part of my bachelor thesis. I focused on improving the diversity of text generation models, particularly for dialogues and chit-chat. I also worked on a production ready API gateway for various modules already developed at the lab, such as SUD, NER and summarization. For the gateway, I also made a simple CNN architecture to detect emotion from speech.
 
