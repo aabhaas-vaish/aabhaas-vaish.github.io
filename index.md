@@ -4,6 +4,7 @@ layout: default
 
 ## About Me
 
+{% comment %} 
 <img class="profile-picture" src="dp.jpg">
 
 Hi! I am Megh. I am a final year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Computer Science. I am broadly interested in Natural Language Processing, particularly in dialogue systems, question answering systems and conversational AI.
@@ -37,3 +38,4 @@ Member | Student Faculty Council | August 2017 - December 2017
 You can find the full source code of this site on [GitHub](https://github.com/aabhaas-vaish/aabhaas-vaish.github.io)
 
 ---
+{% endcomment %}
