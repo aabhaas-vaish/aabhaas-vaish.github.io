@@ -1,18 +1,18 @@
-- name: "Contact"
-  link: "contact"
+#- name: "Contact"
+#  link: "contact"
 
-- name: "Courses"
-  link: "courses"
+#- name: "Courses"
+#  link: "courses"
   
 # - name: "Publications"
 #   link: "publications"
 
-- name: "Projects"
-  link: "projects"
+#- name: "Projects"
+#  link: "projects"
 
-- name: "Résumé/CV"
-  link: "cv"
+#- name: "Résumé/CV"
+#  link: "cv"
 
-- name: "Home"
-  link: "https://Megh-Thakkar.github.io"
+#- name: "Home"
+#  link: "https://Megh-Thakkar.github.io"
 
