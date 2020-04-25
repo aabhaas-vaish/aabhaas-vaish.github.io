@@ -10,8 +10,8 @@
 #- name: "Projects"
 #  link: "projects"
 
-#- name: "Résumé/CV"
-#  link: "cv"
+- name: "CV"
+  link: "cv"
 
 - name: "Home"
   link: "https://aabhaas-vaish.github.io"
