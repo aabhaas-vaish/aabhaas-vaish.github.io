@@ -2,7 +2,7 @@
 layout: default
 ---
 {% comment %} 
-# Aabhaas Vaish
+## Aabhaas Vaish
 {% endcomment %} 
 ## About Me
 <img class="profile-picture" src="av_new.jpg">
