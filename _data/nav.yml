@@ -1,11 +1,8 @@
 #- name: "Contact"
 #  link: "contact"
 
-- name: "Home"
-  link: "https://aabhaas-vaish.github.io"
-
-- name: "Courses"
-  link: "courses"
+#- name: "Courses"
+#  link: "courses"
   
 # - name: "Publications"
 #   link: "publications"
@@ -15,3 +12,6 @@
 
 #- name: "Résumé/CV"
 #  link: "cv"
+
+- name: "Home"
+  link: "https://aabhaas-vaish.github.io"
