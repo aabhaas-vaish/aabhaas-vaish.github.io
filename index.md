@@ -8,7 +8,7 @@ Hi! I am Aabhaas. I am a final year undergraduate student at Birla Institute of 
 
 As an undergraduate student, I had the pleasure of working as a research intern with [Prof Bernhard Riecke](http://ispace.iat.sfu.ca/riecke/) at the [iSpace Lab](http://ispace.iat.sfu.ca/) in [Simon Fraser University](http://www.sfu.ca/), through the [MITACS Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) program. Through this internship, I got the opportunity to work on emotional state recognition using EEG signals through several deep learning based methods such as LSTM Networks, Multi-Layer Perceptrons, hybrid CNN-RNN Networks, and Deep Belief Networks (DBNs).
 
-After my sophomore year, I was also fortunate to get the opportunity to intern at the [Indian Institute of Remote Sensing](https://www.iirs.gov.in/), a research centre of [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/) where I worked on tracking and detecting vehicles in video feeds using computer vision methods such as RCNN, YOLO, and SSD.
+After my sophomore year, I got the opportunity to intern at the [Indian Institute of Remote Sensing](https://www.iirs.gov.in/), a research centre of [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/) where I worked on tracking and detecting vehicles in video feeds using computer vision methods such as RCNN, YOLO, and SSD.
 
 While my primary research interests lie in the domain of machine learning and artificial intelligence, I also enjoy learning about the advances made in Distributed Computing and IoT which led to this paper on the [Industrial Applications of Edge and Fog Computing!](https://arxiv.org/abs/1912.00595)
 
