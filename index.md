@@ -12,6 +12,15 @@ After my sophomore year, I was also fortunate to get the opportunity to intern a
 
 While my primary research interests lie in the domain of machine learning and artificial intelligence, I also enjoy learning about the advances made in Distributed Computing and IoT which led to this paper on the [Industrial Applications of Edge and Fog Computing!](https://arxiv.org/abs/1912.00595)
 
+---
+Feel free to say hello: aabhaas9 [at] gmail [dot] com
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/aabhaas-vaish/)
+
+Do check out my [Google Scholar Profile](https://scholar.google.com/citations?user=RZFBI7sAAAAJ&hl=en)
+
+---
+
 {% comment %} 
 <img class="profile-picture" src="dp.jpg">
 
