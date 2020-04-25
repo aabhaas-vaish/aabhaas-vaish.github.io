@@ -1,8 +1,11 @@
 #- name: "Contact"
 #  link: "contact"
 
-#- name: "Courses"
-#  link: "courses"
+- name: "Home"
+  link: "https://aabhaas-vaish.github.io"
+
+- name: "Courses"
+  link: "courses"
   
 # - name: "Publications"
 #   link: "publications"
@@ -12,7 +15,3 @@
 
 #- name: "Résumé/CV"
 #  link: "cv"
-
-#- name: "Home"
-#  link: "https://Megh-Thakkar.github.io"
-
