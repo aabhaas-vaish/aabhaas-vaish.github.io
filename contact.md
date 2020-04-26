@@ -1,17 +1,13 @@
 ---
 layout: default
-is_contact: true
 ---
+{% comment %} 
+## Contact
+{% endcomment %} 
+Feel free to say hello on email: aabhaas9 [at] gmail [dot] com
 
-* Email: [f2016036@pilani.bits-pilani.ac.in](mailto:f2016036@pilani.bits-pilani.ac.in)  
-         [megh.1211@gmail.com](mailto:megh.1211@gmail.com)
+Do check out my [Google Scholar Profile](https://scholar.google.com/citations?user=RZFBI7sAAAAJ&hl=en)
 
-* Phone: [+91-9829799877](tel:+91-9829799877)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/aabhaas-vaish/)
 
 ---
-
-## Social
-
-1. [Facebook](https://www.facebook.com/profile.php?id=100008296102223)
-2. [Github](https://github.com/Megh-Thakkar)
-3. [LinkedIn](https://in.linkedin.com/in/megh-thakkar)
