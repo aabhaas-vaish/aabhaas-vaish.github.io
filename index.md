@@ -17,15 +17,8 @@ While my primary research interests are in the domain of machine learning, I als
 ---
 Feel free to say hello on email: aabhaas9 [at] gmail [dot] com
 
-Do check out my [Google Scholar Profile](https://scholar.google.com/citations?user=RZFBI7sAAAAJ&hl=en)
+You can find me on [Google Scholar!](https://scholar.google.com/citations?user=RZFBI7sAAAAJ&hl=en)
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/aabhaas-vaish/)
 
 ---
-
-{% comment %} 
-## Research Interest
-
-My research interests primarily lie in the field of machine learning and artificial intelligence, as well as their applications. I am fascinated by the **human language** and pretty much everything related to it, though I am slightly inclined towards researching on language as a tool for **human-computer interaction** and that sparks my interest in **dialogue systems and question answering models**. I have also developed an interest in **multimodal learning**, researching at the intersection of natural language processing and computer vision.
-
-{% endcomment %}
