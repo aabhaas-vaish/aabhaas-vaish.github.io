@@ -3,7 +3,7 @@ layout: default
 ---
 ## CV
 
-Thank you for your interest! Unfortunately this page is still under construction so please keep watching for any updates. Thanks again!
+Thank you for your interest! Unfortunately this page is still under construction so please keep watching for updates. Thanks again!
 
 {% comment %} 
 ## CV and Résumé
