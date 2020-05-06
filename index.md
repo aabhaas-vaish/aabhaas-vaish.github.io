@@ -21,4 +21,6 @@ You can find me on [Google Scholar!](https://scholar.google.com/citations?user=R
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/aabhaas-vaish/)
 
+Find me on [GitHub](https://github.com/aabhaas-vaish/)
+
 ---
