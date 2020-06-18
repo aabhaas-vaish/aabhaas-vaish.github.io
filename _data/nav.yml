@@ -7,11 +7,11 @@
 # - name: "Publications"
 #   link: "publications"
 
-- name: "Projects"
-  link: "projects"
+#- name: "Projects"
+#  link: "projects"
 
-- name: "CV"
-  link: "cv"
+#- name: "CV"
+#  link: "cv"
 
 - name: "Home"
   link: "https://aabhaas-vaish.github.io"
