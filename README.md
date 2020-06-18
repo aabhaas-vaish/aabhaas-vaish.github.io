@@ -23,7 +23,7 @@ Simply fork the repository and edit away.
 * To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
 
 ```html
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="av.jpg">
 ```
 
 **Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
