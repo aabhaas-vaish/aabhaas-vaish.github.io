@@ -6,7 +6,7 @@ layout: default
 {% endcomment %} 
 ## About Me
 <img class="profile-picture" src="av_new.jpg">
-Hi! I am Aabhaas. I am a final year undergraduate student at BITS Pilani, majoring in Electrical and Electronics Engineering. I am broadly interested in the applications of Deep Learning, specifically in Computer Vision, Reinforcement Learning, and Natural Language Processing.
+Hi! I am Aabhaas. I am a final year undergraduate student at BITS Pilani, majoring in Electrical and Electronics Engineering. I am broadly interested in the applications of Deep Learning, specifically in Computer Vision, Natural Language Processing, and Reinforcement Learning.
 
 As an undergraduate student, I got an amazing opportunity to work as a research intern with [Prof Bernhard Riecke](http://ispace.iat.sfu.ca/riecke/) at the [iSpace Lab](http://ispace.iat.sfu.ca/) at [Simon Fraser University](http://www.sfu.ca/), through the [MITACS Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) program. I got the opportunity to work on emotional state recognition in EEG signals using different deep neural networks such as LSTM Networks, hybrid CNN-RNN Networks, and Deep Belief Networks.
 
