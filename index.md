@@ -6,7 +6,7 @@ layout: default
 {% endcomment %} 
 ## About Me
 <img class="profile-picture" src="av_new.jpg">
-Hey, I am Aabhaas Vaish! Please feel free to reach out on email or LinkedIn :)
+Hey, I am Aabhaas Vaish! Please feel free to reach out by email or through LinkedIn :)
 
 ---
 Feel free to say hello on email: aabhaas9 [at] gmail [dot] com
